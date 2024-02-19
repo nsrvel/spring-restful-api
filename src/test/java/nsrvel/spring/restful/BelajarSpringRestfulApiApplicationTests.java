@@ -1,0 +1,13 @@
+package nsrvel.spring.restful;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BelajarSpringRestfulApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
